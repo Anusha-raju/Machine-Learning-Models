@@ -41,5 +41,5 @@ This folder consists of 2 files :
 
 Although from data visualising the 'Iris-setosa' can be linearly seperable the other two categories can't.
 
-Hence various ML classification model techniques is used in "Modelling.ipynb"
+Hence various ML classification model techniques is used in "Modelling.ipynb" and related observations are made.
 
